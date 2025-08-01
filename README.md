@@ -1,5 +1,5 @@
 # n8n-free-templates
-# 🚀 200 Ready-to-Import n8n Workflows  
+# 🚀 200+ Ready-to-Import n8n Workflows  
 
 _AI • Vector DB • LLM • DevOps • Finance • IoT • and more_
 
